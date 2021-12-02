@@ -1,0 +1,12 @@
+Links de estudo:
+
+https://www.vivaolinux.com.br/topico/Python/Clicar-em-imagem-reconhecida-Python-pyautogui
+
+Como movimentar o mouse ou teclado com Python:
+https://www.youtube.com/watch?v=UW8Vf0dyEvs
+
+Como criar um Aimbot com Python:
+https://www.youtube.com/watch?v=TERKvqfySYI
+
+Doc oficial:
+https://pyautogui.readthedocs.io/en/latest/mouse.html
